@@ -1,7 +1,7 @@
 # hello-world
 First GitHub repository
 
-HI there fellow nerds!
+HI there fellow geeks!
 
 My name is Peter and I am a newbie programmer, as I just started giving my first steps in this area.
 
